@@ -2,28 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9d1a8e9-b216-49c5-8726-ba72438a63ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/js与数据结构/二叉树.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js与数据结构/创建树.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法题/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法题/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法题/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法题/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法题/.idea/算法题.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法题/throttle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法题/数组去重/reaolve_4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法题/数组去重/resolve1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法题/数组去重/resolve_2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法题/数组去重/resolve_3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法题/数组扁平化处理/fattle_1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法题/数组扁平化处理/fattle_2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法题/数组扁平化处理/fattle_3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法题/数组扁平化处理/fattle_4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原生实现/Promise源码/_promise.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原生实现/new源码/_new.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/原生实现/reduce源码/reduce.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/原生实现/bind源码/bind原生.js" beforeDir="false" afterPath="$PROJECT_DIR$/原生实现/bind源码/bind原生.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/原生实现/bind源码/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/原生实现/bind源码/demo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/防抖和节流/debounce.js" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/防抖和节流/debounce.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/防抖和节流/demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/防抖和节流/demo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/防抖和节流/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/防抖和节流/test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/防抖和节流/throttle.js" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/防抖和节流/throttle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法题/数组去重/resolve1.js" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/数组去重/resolve_1.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -67,25 +52,48 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1497531166">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="js" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JavaScript" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="857" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JavaScript" value="857" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="Useful" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/原生实现/bind源码/demo.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/原生实现/bind源码/bind原生.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-348" />
+            <state relative-caret-position="322">
+              <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+            </state>
           </provider>
         </entry>
       </file>
@@ -101,7 +109,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/算法题/数组去重/resolve_3.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
+            <state relative-caret-position="203">
               <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
             </state>
           </provider>
@@ -110,8 +118,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/算法题/数组扁平化处理/fattle_1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+            <state relative-caret-position="87">
+              <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -120,16 +128,43 @@
         <entry file="file://$PROJECT_DIR$/算法题/数组扁平化处理/fattle_3.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="87">
-              <caret line="3" column="25" lean-forward="true" selection-start-line="1" selection-end-line="3" selection-end-column="25" />
+              <caret line="3" column="25" selection-start-line="1" selection-end-line="3" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/算法题/数组扁平化处理/fattle_4.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/原生实现/reduce源码/reduce.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-174">
+              <caret line="3" column="46" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/原生实现/new源码/_new.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/算法题/数组扁平化处理/fattle_4.js">
+        <entry file="file://$PROJECT_DIR$/原生实现/Promise源码/_promise.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+            <state relative-caret-position="1015">
+              <caret line="35" column="26" lean-forward="true" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -175,6 +210,12 @@
         <option value="$PROJECT_DIR$/算法题/数组扁平化处理/fattle_2.js" />
         <option value="$PROJECT_DIR$/算法题/数组扁平化处理/fattle_3.js" />
         <option value="$PROJECT_DIR$/算法题/数组扁平化处理/fattle_4.js" />
+        <option value="$PROJECT_DIR$/原生实现/reduce源码.js" />
+        <option value="$PROJECT_DIR$/原生实现/bind源码/demo.js" />
+        <option value="$PROJECT_DIR$/原生实现/bind源码/bind原生.js" />
+        <option value="$PROJECT_DIR$/原生实现/reduce源码/reduce.js" />
+        <option value="$PROJECT_DIR$/原生实现/new源码/_new.js" />
+        <option value="$PROJECT_DIR$/原生实现/Promise源码/_promise.js" />
       </list>
     </option>
   </component>
@@ -199,19 +240,18 @@
         <subPane>
           <expand>
             <path>
-              <item name="Useful" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Useful" type="462c0819:PsiDirectoryNode" />
+              <item name="JS_way" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS_way" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Useful" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Useful" type="462c0819:PsiDirectoryNode" />
-              <item name="算法题" type="462c0819:PsiDirectoryNode" />
+              <item name="JS_way" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS_way" type="462c0819:PsiDirectoryNode" />
+              <item name="原生实现" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Useful" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Useful" type="462c0819:PsiDirectoryNode" />
+              <item name="JS_way" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS_way" type="462c0819:PsiDirectoryNode" />
               <item name="算法题" type="462c0819:PsiDirectoryNode" />
-              <item name="数组扁平化处理" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -245,36 +285,36 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.fattle_4.js">
-    <configuration name="fattle_1.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="fattle_1.js" working-dir="$PROJECT_DIR$/算法题/数组扁平化处理">
+  <component name="RunManager" selected="Node.js._promise.js">
+    <configuration name="_new.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="_new.js" working-dir="$PROJECT_DIR$/原生实现/new源码">
       <method v="2" />
     </configuration>
-    <configuration name="fattle_2.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="fattle_2.js" working-dir="$PROJECT_DIR$/算法题/数组扁平化处理">
+    <configuration name="_promise.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="_promise.js" working-dir="$PROJECT_DIR$/原生实现/Promise源码">
       <method v="2" />
     </configuration>
-    <configuration name="fattle_3.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="fattle_3.js" working-dir="$PROJECT_DIR$/算法题/数组扁平化处理">
+    <configuration name="bind原生.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="bind原生.js" working-dir="$PROJECT_DIR$/原生实现/bind源码">
       <method v="2" />
     </configuration>
-    <configuration name="fattle_4.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="fattle_4.js" working-dir="$PROJECT_DIR$/算法题/数组扁平化处理">
+    <configuration name="demo.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="demo.js" working-dir="$PROJECT_DIR$/原生实现/bind源码">
       <method v="2" />
     </configuration>
-    <configuration name="resolve_3.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="resolve_3.js" working-dir="$PROJECT_DIR$/算法题/数组去重">
+    <configuration name="reduce.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="reduce.js" working-dir="$PROJECT_DIR$/原生实现/reduce源码">
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Node.js.resolve_3.js" />
-      <item itemvalue="Node.js.fattle_1.js" />
-      <item itemvalue="Node.js.fattle_2.js" />
-      <item itemvalue="Node.js.fattle_3.js" />
-      <item itemvalue="Node.js.fattle_4.js" />
+      <item itemvalue="Node.js.reduce.js" />
+      <item itemvalue="Node.js.demo.js" />
+      <item itemvalue="Node.js.bind原生.js" />
+      <item itemvalue="Node.js._new.js" />
+      <item itemvalue="Node.js._promise.js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.fattle_4.js" />
-        <item itemvalue="Node.js.fattle_3.js" />
-        <item itemvalue="Node.js.resolve_3.js" />
-        <item itemvalue="Node.js.fattle_2.js" />
-        <item itemvalue="Node.js.fattle_1.js" />
+        <item itemvalue="Node.js._promise.js" />
+        <item itemvalue="Node.js._new.js" />
+        <item itemvalue="Node.js.reduce.js" />
+        <item itemvalue="Node.js.bind原生.js" />
+        <item itemvalue="Node.js.demo.js" />
       </list>
     </recent_temporary>
   </component>
@@ -289,30 +329,32 @@
       <option name="presentableId" value="Default" />
       <updated>1552810446900</updated>
       <workItem from="1552810453867" duration="19236000" />
+      <workItem from="1552909478873" duration="3009000" />
+      <workItem from="1552913532559" duration="5200000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19236000" />
+    <option name="totallyTimeSpent" value="27445000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="38" width="1920" height="1042" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" sideWeight="0.5017544" side_tool="true" weight="0.24986765" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49824563" visible="true" weight="0.24986765" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32941177" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" sideWeight="0.5017544" side_tool="true" weight="0.24986765" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32941177" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32941177" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -325,17 +367,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/防抖和节流/debounce.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/防抖和节流/debounce.html" />
     <entry file="file://$PROJECT_DIR$/算法题/防抖和节流/demo.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -364,18 +396,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/原生实现/bind源码/bind原生.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-348" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/原生实现/bind源码/demo.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/算法题/数组去重/resolve_2.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="87">
@@ -383,7 +403,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/算法题/数组去重/resolve1.js">
+    <entry file="file://$PROJECT_DIR$/算法题/数组去重/resolve_1.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="29">
           <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
@@ -418,17 +438,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/原生实现/call源码/call源码.js">
+    <entry file="file://$PROJECT_DIR$/原生实现/reduce源码.js" />
+    <entry file="file://$PROJECT_DIR$/原生实现/bind源码/demo.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        <state relative-caret-position="464">
+          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/算法题/数组去重/resolve_3.js">
+    <entry file="file://$PROJECT_DIR$/算法题/数组扁平化处理/fattle_1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        <state relative-caret-position="87">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法题/数组扁平化处理/fattle_3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="25" selection-start-line="1" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法题/数组扁平化处理/fattle_4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -439,24 +474,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/算法题/数组扁平化处理/fattle_1.js">
+    <entry file="file://$PROJECT_DIR$/原生实现/bind源码/bind原生.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        <state relative-caret-position="322">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/算法题/数组扁平化处理/fattle_3.js">
+    <entry file="file://$PROJECT_DIR$/原生实现/call源码/call源码.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="3" column="25" lean-forward="true" selection-start-line="1" selection-end-line="3" selection-end-column="25" />
+        <state relative-caret-position="203">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/算法题/数组扁平化处理/fattle_4.js">
+    <entry file="file://$PROJECT_DIR$/算法题/数组去重/resolve_3.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+        <state relative-caret-position="203">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/原生实现/reduce源码/reduce.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-174">
+          <caret line="3" column="46" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/原生实现/new源码/_new.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/原生实现/Promise源码/_promise.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1015">
+          <caret line="35" column="26" lean-forward="true" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
         </state>
       </provider>
     </entry>

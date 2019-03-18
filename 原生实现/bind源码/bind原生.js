@@ -9,8 +9,8 @@ func.prototype.sayHi = function() {
 
 let newFunc = func.bind({a:"aaa"},1,2,3,4);
 newFunc(1,1);
-let f1 =new  newFunc(5,6,7,8);
-console.log(f1.sayHi);
+// let f1 =new  newFunc(5,6,7,8);
+// console.log(f1.sayHi);
 console.log("-------------");
 
 Function.prototype.selfBind = function (thisArg,...list) {
@@ -36,8 +36,8 @@ Function.prototype.selfBind = function (thisArg,...list) {
 };
 let newFunc2 = func.selfBind({a:"aaa"},1,2,3,4);
 newFunc2(2,2);
-let f2 = new newFunc2(5,6,7,8);
-console.log(f2.sayHi);
+// let f2 = new newFunc2(5,6,7,8);
+// console.log(f2.sayHi);
 /*
 *
 * [ 1, 2, 3, 4, 1, 1 ]
