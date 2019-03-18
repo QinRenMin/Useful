@@ -2,12 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9d1a8e9-b216-49c5-8726-ba72438a63ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/防抖和节流/debounce.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/防抖和节流/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/防抖和节流/throttle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/原生实现/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/原生实现/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js与数据结构/二叉树.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js与数据结构/创建树.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法题/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法题/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法题/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法题/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法题/.idea/算法题.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法题/throttle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法题/数组去重/reaolve_4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法题/数组去重/resolve1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法题/数组去重/resolve_2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法题/数组去重/resolve_3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法题/数组扁平化处理/fattle_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法题/数组扁平化处理/fattle_2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法题/数组扁平化处理/fattle_3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法题/数组扁平化处理/fattle_4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/原生实现/bind源码/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/原生实现/bind源码/demo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/防抖和节流/debounce.js" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/防抖和节流/debounce.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/防抖和节流/demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/防抖和节流/demo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/防抖和节流/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/防抖和节流/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/防抖和节流/throttle.js" beforeDir="false" afterPath="$PROJECT_DIR$/算法题/防抖和节流/throttle.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -29,54 +45,100 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="1" />
-          <entry key="js" value="3" />
+          <entry key="js" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="1" />
-          <entry key="JavaScript" value="3" />
+          <entry key="JavaScript" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="35" />
-          <entry key="js" value="190" />
+          <entry key="js" value="3155" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="35" />
-          <entry key="JavaScript" value="190" />
+          <entry key="JavaScript" value="3155" />
         </counts>
       </usages-collector>
     </session>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Useful" />
+  </component>
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/防抖和节流/debounce.js">
+        <entry file="file://$PROJECT_DIR$/原生实现/bind源码/demo.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+            <state relative-caret-position="116">
+              <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/防抖和节流/throttle.js">
+        <entry file="file://$PROJECT_DIR$/原生实现/bind源码/bind原生.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="464">
-              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+            <state relative-caret-position="-348" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/原生实现/call源码/call源码.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/算法题/数组去重/resolve_3.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/算法题/数组扁平化处理/fattle_1.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/算法题/数组扁平化处理/fattle_3.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="87">
+              <caret line="3" column="25" lean-forward="true" selection-start-line="1" selection-end-line="3" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/防抖和节流/test.js">
+        <entry file="file://$PROJECT_DIR$/算法题/数组扁平化处理/fattle_4.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+            <state relative-caret-position="174">
+              <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/算法题/数组扁平化处理/fattle_2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="145">
+              <caret line="5" column="90" selection-start-line="5" selection-start-column="90" selection-end-line="5" selection-end-column="90" />
             </state>
           </provider>
         </entry>
@@ -100,7 +162,19 @@
         <option value="$PROJECT_DIR$/防抖和节流/debounce.js" />
         <option value="$PROJECT_DIR$/防抖和节流/debounce.html" />
         <option value="$PROJECT_DIR$/防抖和节流/throttle.js" />
+        <option value="$PROJECT_DIR$/防抖和节流/demo.js" />
         <option value="$PROJECT_DIR$/防抖和节流/test.js" />
+        <option value="$PROJECT_DIR$/算法题/throttle.js" />
+        <option value="$PROJECT_DIR$/js与数据结构/二叉树.js" />
+        <option value="$PROJECT_DIR$/js与数据结构/创建树.js" />
+        <option value="$PROJECT_DIR$/算法题/数组去重/resolve_2.js" />
+        <option value="$PROJECT_DIR$/算法题/数组去重/resolve_3.js" />
+        <option value="$PROJECT_DIR$/算法题/数组去重/reaolve_4.js" />
+        <option value="$PROJECT_DIR$/算法题/数组去重/resolve1.js" />
+        <option value="$PROJECT_DIR$/算法题/数组扁平化处理/fattle_1.js" />
+        <option value="$PROJECT_DIR$/算法题/数组扁平化处理/fattle_2.js" />
+        <option value="$PROJECT_DIR$/算法题/数组扁平化处理/fattle_3.js" />
+        <option value="$PROJECT_DIR$/算法题/数组扁平化处理/fattle_4.js" />
       </list>
     </option>
   </component>
@@ -131,7 +205,13 @@
             <path>
               <item name="Useful" type="b2602c69:ProjectViewProjectNode" />
               <item name="Useful" type="462c0819:PsiDirectoryNode" />
-              <item name="防抖和节流" type="462c0819:PsiDirectoryNode" />
+              <item name="算法题" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Useful" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Useful" type="462c0819:PsiDirectoryNode" />
+              <item name="算法题" type="462c0819:PsiDirectoryNode" />
+              <item name="数组扁平化处理" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -145,6 +225,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/算法题" />
+      <recent name="$PROJECT_DIR$/防抖和节流" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -158,26 +245,36 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.test.js">
-    <configuration name="debounce.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="debounce.js" working-dir="$PROJECT_DIR$/防抖和节流">
+  <component name="RunManager" selected="Node.js.fattle_4.js">
+    <configuration name="fattle_1.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="fattle_1.js" working-dir="$PROJECT_DIR$/算法题/数组扁平化处理">
       <method v="2" />
     </configuration>
-    <configuration name="test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/防抖和节流">
+    <configuration name="fattle_2.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="fattle_2.js" working-dir="$PROJECT_DIR$/算法题/数组扁平化处理">
       <method v="2" />
     </configuration>
-    <configuration name="throttle.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="throttle.js" working-dir="$PROJECT_DIR$/防抖和节流">
+    <configuration name="fattle_3.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="fattle_3.js" working-dir="$PROJECT_DIR$/算法题/数组扁平化处理">
+      <method v="2" />
+    </configuration>
+    <configuration name="fattle_4.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="fattle_4.js" working-dir="$PROJECT_DIR$/算法题/数组扁平化处理">
+      <method v="2" />
+    </configuration>
+    <configuration name="resolve_3.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="resolve_3.js" working-dir="$PROJECT_DIR$/算法题/数组去重">
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Node.js.debounce.js" />
-      <item itemvalue="Node.js.throttle.js" />
-      <item itemvalue="Node.js.test.js" />
+      <item itemvalue="Node.js.resolve_3.js" />
+      <item itemvalue="Node.js.fattle_1.js" />
+      <item itemvalue="Node.js.fattle_2.js" />
+      <item itemvalue="Node.js.fattle_3.js" />
+      <item itemvalue="Node.js.fattle_4.js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.test.js" />
-        <item itemvalue="Node.js.debounce.js" />
-        <item itemvalue="Node.js.throttle.js" />
+        <item itemvalue="Node.js.fattle_4.js" />
+        <item itemvalue="Node.js.fattle_3.js" />
+        <item itemvalue="Node.js.resolve_3.js" />
+        <item itemvalue="Node.js.fattle_2.js" />
+        <item itemvalue="Node.js.fattle_1.js" />
       </list>
     </recent_temporary>
   </component>
@@ -191,23 +288,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552810446900</updated>
-      <workItem from="1552810453867" duration="2099000" />
+      <workItem from="1552810453867" duration="19236000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2099000" />
+    <option name="totallyTimeSpent" value="19236000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="38" width="1920" height="1042" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24986765" />
+      <window_info id="Favorites" sideWeight="0.5017544" side_tool="true" weight="0.24986765" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49824563" visible="true" weight="0.24986765" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32941177" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -239,24 +336,127 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/防抖和节流/debounce.js">
+    <entry file="file://$PROJECT_DIR$/算法题/防抖和节流/demo.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/防抖和节流/throttle.js">
+    <entry file="file://$PROJECT_DIR$/算法题/防抖和节流/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法题/防抖和节流/debounce.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js与数据结构/创建树.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/原生实现/bind源码/bind原生.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-348" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/原生实现/bind源码/demo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法题/数组去重/resolve_2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法题/数组去重/resolve1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法题/数组去重/reaolve_4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法题/防抖和节流/throttle.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="464">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/防抖和节流/test.js">
+    <entry file="file://$PROJECT_DIR$/js与数据结构/二叉树.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        <state relative-caret-position="4553">
+          <caret line="172" column="18" selection-start-line="172" selection-start-column="18" selection-end-line="172" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法题/throttle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/原生实现/call源码/call源码.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法题/数组去重/resolve_3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法题/数组扁平化处理/fattle_2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" column="90" selection-start-line="5" selection-start-column="90" selection-end-line="5" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法题/数组扁平化处理/fattle_1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法题/数组扁平化处理/fattle_3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="25" lean-forward="true" selection-start-line="1" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法题/数组扁平化处理/fattle_4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
         </state>
       </provider>
     </entry>
